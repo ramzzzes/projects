@@ -1,0 +1,9 @@
+.sidebar{
+    width:100px;
+    text-align: center;
+    margin-right: 10px;
+}
+.sidebar-icon{
+    cursor: pointer;
+    margin-bottom:24px;
+}
